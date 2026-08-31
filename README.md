@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224110040
+# Name: Naveen R
+# Date: 31/08/2026
 
 
 # AIM:
@@ -23,6 +23,9 @@ To develop the Course Reservation and Exam Registration System using Star UML
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
+
+<img width="1492" height="823" alt="image" src="https://github.com/user-attachments/assets/e50c54d2-73dc-45b7-b20b-812330ca8087" />
+
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
