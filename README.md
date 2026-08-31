@@ -81,6 +81,9 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 # PACKAGE DIAGRAM:
 
+<img width="1491" height="829" alt="image" src="https://github.com/user-attachments/assets/7ae1ac79-fa86-4494-bd0a-143205dbeffd" />
+
+
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
 organization of the layered architecture within any UML classifier, such as a software system.
