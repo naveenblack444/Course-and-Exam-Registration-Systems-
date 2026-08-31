@@ -50,6 +50,9 @@ Specifying the context and requirements of a system
 
 # CLASS DIAGRAM
 
+<img width="1472" height="812" alt="image" src="https://github.com/user-attachments/assets/3215c1a1-0f68-4547-a00d-b40966aad995" />
+
+
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
 among software engineers to document software architecture, class diagrams are a type of structure diagram because they describe what must be present in the system being modeled. No matter your level of familiarity with UML or class diagrams, our UML software is designed to be simple and easy to use.
